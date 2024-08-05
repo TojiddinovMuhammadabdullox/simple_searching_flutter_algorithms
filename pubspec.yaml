@@ -1,19 +1,17 @@
 name: simple_searching_flutter_algorithms
-description: "A new Flutter package project."
-version: 0.0.1
-homepage:
+description: This package provides three search functions Binary Search, Linear Search, and Jump Search.
+version: 0.0.3
+repository: https://github.com/TojiddinovMuhammadabdullox/simple_searching_flutter_algorithms
+
 
 environment:
-  sdk: '>=3.4.4 <4.0.0'
-  flutter: ">=1.17.0"
+  sdk: '>=3.3.4 <4.0.0'
 
 dependencies:
-  flutter:
-    sdk: flutter
 
 dev_dependencies:
-  flutter_test:
-    sdk: flutter
-  flutter_lints: ^3.0.0
+  lints: ^3.0.0
+  test: ^1.24.0
 
-flutter:
+
+
